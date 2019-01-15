@@ -1,0 +1,5 @@
+.gradle/
+errors.txt
+results.txt
+out/
+build/
